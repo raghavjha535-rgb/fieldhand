@@ -1,0 +1,7 @@
+langgraph==1.2.16
+langchain-core==1.6.13
+langchain-google-genai==4.4.2
+streamlit==1.66.1
+python-dotenv==1.2.4
+tzdata>=2024.1
+pytest>=8.0
